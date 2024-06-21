@@ -170,7 +170,7 @@ st.markdown(
     }
     </style>
     <div class="footer">
-        &copy; 2024 Tu Nombre o Tu Compañía. Todos los derechos reservados.
+        &copy; 2024 jahoperi. Todos los derechos reservados.
     </div>
     """,
     unsafe_allow_html=True
